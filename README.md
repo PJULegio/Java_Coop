@@ -1,2 +1,2 @@
 Kod źródłowy w:
-<data>/src/
+`<data>/src/`
